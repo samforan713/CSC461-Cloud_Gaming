@@ -1,26 +1,18 @@
-• What to update?
-– on the proposal and website
-– on the progresses with regard to the schedule
-– technical challenges met, solved and remaining
-– additional help needed if any
-– adjustment requested to the proposal
-– anything else needs to be updated
-– by teams on website & Teams by Nov 6
+Progress:  
+  So far, the progress on the project is going well; the initial research into the fundamentals of cloud gaming is done, which will serve as the foundation for this project. Additionally, the basic research into the three subjects of this project, two of which are successful examples of services: Nvidia GeForce Now and Amazon Luna, and one failed service, Google Stadia, is also completed. The generated report will then serve as an analysis of the current standards for successful cloud gaming services and what may be coming in the future in this industry.
 
-– class feedback on Teams by Nov 8
-– everyone picks at least 5 projects to feedback
-– project team response to feedback by Nov 10
-– both project update and response evaluated (5%)
-– all teams: a chance to update proposal by Nov 13
+Technical Challenges:   
+  As modern games continue to grow in scale and scope, so do the minimum hardware requirements to experience them. Cloud gaming offers to ease the burden of upgrading hardware by allowing users to join a subscription service to essentially borrow computing power from remote servers. Some technical challenges for cloud gaming as a service are listed below, along with technical challenges related to this project as well.  
+• Cloud Gaming Technical Challenges:  
+[1] Minimum bandwidth, minimum data rate, and maximum delay requirements  
+• Project-Based Technical Challenges:  
+[1] Finding quantitative data on data rates achieved through cloud gaming services Solved by searching the Uvic library for peer-reviewed papers covering standardized testing of multiple cloud-based gaming services.   
+[2] Determining which cloud gaming services would be best to focus on. Solved by deciding to only examine services that had adequate data from peer-reviewed papers found on the Uvic library repository.
 
-Progress:
--> w/ regard to the schedule
+Additional Help:  
+No additional help should be required; I feel that I have a sufficient foundation of research to properly analyze the subject. Additionally, I was able to find some papers with actual quantitative data regarding data rates, performance, etc. for analysis. 
 
-Technical Challenges:
--> Technical challenges met, solved, remaining:
+Adjustments requested to the proposal:  
+No adjustments to the project proposal will be necessary.
 
-Additional Help:
--> why the fuck am i doing this
-
-Adjustment requested to the proposal:
--> + any other updates
+Thanks for reading, appriciate any feedback you can provide. 
