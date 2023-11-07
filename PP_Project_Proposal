@@ -1,0 +1,43 @@
+CSC461 - Project Proposal: Cloud Gaming
+Problem Definition
+	Modern gaming has seen massive improvements in the last decade, delivering incredible graphics,
+immersive worlds, and unique experiences to users. However, as the scope of games grows 
+exponentially larger, the hardware needed to engage with these games has become a roadblock for 
+consumers. A casual enthusiast of video games may be turned away by the large costs associated with
+upgrading hardware to enjoy the latest instalments from their favourite franchises. Cloud gaming is
+a development meant to appeal to users who want to experience the latest games without paying a 
+fortune for their own setups capable of running them to their full potential. Cloud gaming offers 
+to store and run games on remote servers, receive inputs from a user’s device, and send the data 
+stream back in the form of a video. This allows the user to avoid paying for expensive computer 
+hardware by paying a small subscription fee to use the service. As games continue to become more
+complex and demand more from hardware, gaming as a service is seen as a way to alleviate some of 
+the cost associated with these upgrades for the average consumer.		
+
+Approach
+	Cloud gaming technology was originally developed around 2003 but has only seen wider adoption in
+the last five years. As hardware requirements continue to rise, companies have seen a larger market
+emerge for consumers looking for games as a service. This has resulted in a number of both 
+successful and unsuccessful projects attempting to capitalize on this emerging market. To compare 
+and contrast the different projects, one must look into the accessibility of the services. 
+Analyzing both the data rates offered and the required internet speeds to gauge if the service 
+matches the expectations of the user. Addressing factors such as input lag, FPS stuttering, 
+disconnections, etc. The goal of this project will be to analyze successful services such as Xbox
+Game Pass Ultimate and PlayStation Plus Premium against services that failed, like Google Stadia,
+based on the above criteria. Additionally, by providing insight into future advancements and 
+innovations that could allow cloud-based gaming to become the primary way consumers engage with 
+video games.
+
+Deliverables:
+• Expected deliverables and a rough biweekly time schedule:
+	• Project Proposal: Delivered on October 9th 2023
+Project Update: Delivered by November 6th 2023
+		-> Draft finished by October 31st 2023
+Project Demo: Delivered by December 4th 2023
+		-> Draft presentation finished by November 28th 2023
+Project Report: Delivered by December 11th 2023
+		-> Draft report finished by December 5th 2023
+
+• Link to website:(NEW: https://github.com/samforan713/CSC461-Cloud_Gaming) (OLD: https://studentweb.uvic.ca/~sforan/)
+• References will include links to the mentioned cloud gaming services homepages, customer reviews,
+reports on the quantitative data, etc. Which will be compiled and delivered in the project update
+on November 6th 2023. 
